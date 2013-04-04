@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+}
+
+.square {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+}
+
+.white {
+  background-color: lightgrey;
+}
+
+.black {
+  background-color: grey;
+}
+
+.queenOn{
+  font-size: 1.2em;
+}
+.board {
+	text-align: center;
+}
+.solutionNumber {
+	padding-right: 20px;
+}
+.numberOfSolutions {
+	padding-left: 10px;
+}
+table {
+	margin: 0 auto;
+}
+.noSolutions {
+	margin-top: 30px;
+	font-size: 1.5em;
+}
